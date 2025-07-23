@@ -15,7 +15,6 @@
 's2d90afa5dcca2c0e': `3) Prejdite nadol k "Pridať na domovskú obrazovku"`,
 's37a9e8aec5713460': `Viac`,
 's4593f304dac8848c': `2) Klepnite na "Pridať na domovskú obrazovku"`,
-'s54cfbb14f46396d4': `1) Otvorte v hlavnom prehliadači`,
 's6196153c4b0c1ea0': `Inštalovať`,
 's922329d6f6213590': `Pridať do Docku`,
 'sa5ef80b4bb9b39f8': `Menej`,

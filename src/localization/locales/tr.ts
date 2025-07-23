@@ -15,7 +15,6 @@
 's2d90afa5dcca2c0e': `3) "Ana Ekrana Ekle" seçeneğine kadar aşağı kaydırın`,
 's37a9e8aec5713460': `Daha Fazla`,
 's4593f304dac8848c': `2) "Ana Ekrana Ekle"ye dokunun`,
-'s54cfbb14f46396d4': `1) Ana tarayıcınızda açın`,
 's6196153c4b0c1ea0': `Yükle`,
 's922329d6f6213590': `Dock’a Ekle`,
 'sa5ef80b4bb9b39f8': `Küçült`,

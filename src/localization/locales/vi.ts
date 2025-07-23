@@ -15,7 +15,6 @@
 's2d90afa5dcca2c0e': `3) Kéo đến mục "Thêm vào Màn hình chính"`,
 's37a9e8aec5713460': `Thêm`,
 's4593f304dac8848c': `2) Nhấn vào "Thêm vào Màn hình chính"`,
-'s54cfbb14f46396d4': `1) Mở trình duyệt chính của bạn`,
 's6196153c4b0c1ea0': `Cài đặt`,
 's922329d6f6213590': `Thêm vào Dock`,
 'sa5ef80b4bb9b39f8': `Thu gọn`,

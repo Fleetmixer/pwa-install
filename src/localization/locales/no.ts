@@ -15,7 +15,6 @@
 's2d90afa5dcca2c0e': `3) Rull ned til «Legg til på Hjem-skjerm»`,
 's37a9e8aec5713460': `Mer`,
 's4593f304dac8848c': `2) Trykk på "Legg til på Hjem-skjerm"`,
-'s54cfbb14f46396d4': `1) Åpne i hovednettleseren din`,
 's6196153c4b0c1ea0': `Installer`,
 's922329d6f6213590': `Legg til i Dock`,
 'sa5ef80b4bb9b39f8': `Mindre`,

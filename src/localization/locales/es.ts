@@ -15,7 +15,6 @@
 's2d90afa5dcca2c0e': `3) Desplázate hacia abajo hasta "Añadir a pantalla de inicio"`,
 's37a9e8aec5713460': `Más`,
 's4593f304dac8848c': `2) Toca "Añadir a pantalla de inicio"`,
-'s54cfbb14f46396d4': `1) Abre en tu navegador principal`,
 's6196153c4b0c1ea0': `Instalar`,
 's922329d6f6213590': `Añadir al Dock`,
 'sa5ef80b4bb9b39f8': `Menos`,

@@ -15,7 +15,6 @@
 's2d90afa5dcca2c0e': `3) Scorri verso il basso fino a "Aggiungi alla schermata principale"`,
 's37a9e8aec5713460': `Più`,
 's4593f304dac8848c': `2) Tocca "Aggiungi alla schermata principale"`,
-'s54cfbb14f46396d4': `1) Apri nel tuo browser principale`,
 's6196153c4b0c1ea0': `Installa`,
 's922329d6f6213590': `Aggiungi al Dock`,
 'sa5ef80b4bb9b39f8': `Meno`,

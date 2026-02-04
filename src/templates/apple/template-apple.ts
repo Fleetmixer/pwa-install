@@ -27,12 +27,15 @@ const template = (name: string, description: string, installDescription: string,
                 : '' }
                 <div class="how-to-body">
                     <div class="how-to-description">
-                        ${!isDesktop? html`<div class="description-step">
+                        ${!isDesktop? html`
+                        <div class="description-step">
                             <div class="svg-wrap">
-                                <svg height="24" viewBox="0 -960 960 960" width="24" fill=""><path d="M480-160q-33 0-56.5-23.5T400-240q0-33 23.5-56.5T480-320q33 0 56.5 23.5T560-240q0 33-23.5 56.5T480-160Zm0-240q-33 0-56.5-23.5T400-480q0-33 23.5-56.5T480-560q33 0 56.5 23.5T560-480q0 33-23.5 56.5T480-400Zm0-240q-33 0-56.5-23.5T400-720q0-33 23.5-56.5T480-800q33 0 56.5 23.5T560-720q0 33-23.5 56.5T480-640Z"/></svg>
+                                <svg id="pwa-safari" viewBox="0 0 20.283 19.932" width="24" height="24">
+                                    <g fill="currentColor"><path d="M9.96 19.922c5.45 0 9.962-4.522 9.962-9.961C19.922 4.51 15.4 0 9.952 0 4.511 0 0 4.512 0 9.96c0 5.44 4.521 9.962 9.96 9.962Zm0-1.66A8.26 8.26 0 0 1 1.67 9.96c0-4.61 3.672-8.3 8.281-8.3 4.61 0 8.31 3.69 8.31 8.3 0 4.61-3.69 8.3-8.3 8.3Z"/><path d="m5.87 14.883 5.605-2.735a1.47 1.47 0 0 0 .683-.673l2.725-5.596c.312-.664-.166-1.182-.85-.84L8.447 7.764c-.302.136-.508.341-.674.673L5.03 14.043c-.312.645.196 1.152.84.84Zm4.09-3.72A1.19 1.19 0 0 1 8.77 9.97c0-.664.527-1.201 1.19-1.201a1.2 1.2 0 0 1 1.202 1.2c0 .655-.537 1.192-1.201 1.192Z"/></g>
+                                </svg>
                             </div>
                             <div class="step-text">${msg('1) Open your browser menu')}</div>
-                        </div>` : ''}
+                        </div>`: ''}
                         <div class="description-step">
                             <div class="svg-wrap">
                                 <svg id="pwa-share" width="25" height="32" viewBox="0 0 17.695 26.475">

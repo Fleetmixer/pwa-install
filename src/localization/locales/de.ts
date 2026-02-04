@@ -12,7 +12,7 @@
       's1488e73779d7682f': `1) Öffne das Menü deines Browsers`,
 's182ab2d6c997515f': `Füge es zu deinem Startbildschirm hinzu, um eine umfassende Erfahrung und einen leichten Zugriff zu erhalten.`,
 's1b9047d53d9f9d22': `2) Drücke auf "Teilen" in der Navigationsleiste`,
-'s2d90afa5dcca2c0e': `3) Scrolle nach unten zu "Zum Startbildschirm hinzufügen"`,
+'s2d90afa5dcca2c0e': `3) Scrolle nach unten zu "Zum Home-Bildschirm hinzufügen"`,
 's37a9e8aec5713460': `Mehr`,
 's4593f304dac8848c': `2) Tippe auf "Zum Startbildschirm hinzufügen"`,
 's6196153c4b0c1ea0': `Installieren`,
